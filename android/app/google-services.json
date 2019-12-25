@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "548411208474",
+    "firebase_url": "https://flutterproject-233019.firebaseio.com",
+    "project_id": "flutterproject-233019",
+    "storage_bucket": "flutterproject-233019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548411208474:android:2ee1181fbd0311c0",
+        "android_client_info": {
+          "package_name": "com.example.tours_mng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548411208474-m0vv49pgskju26ug70qmtli623sjfhus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_maps_03_2019",
+            "certificate_hash": "4e7f5f20334fd94bd49096c702c3fd9cedb2fa56"
+          }
+        },
+        {
+          "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaDXJynPv2HMxE4c_7jypYi52jewVFO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548411208474:android:d6c0c6b278e4dc65",
+        "android_client_info": {
+          "package_name": "com.example.listview_aus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaDXJynPv2HMxE4c_7jypYi52jewVFO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548411208474:android:f3af7d8b13366694",
+        "android_client_info": {
+          "package_name": "com.example.mylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaDXJynPv2HMxE4c_7jypYi52jewVFO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548411208474:android:fa24425e5dc07c90",
+        "android_client_info": {
+          "package_name": "com.example.tours_mng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaDXJynPv2HMxE4c_7jypYi52jewVFO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548411208474-4eou8nh0albm67jpu74fea2jbdpc8dlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
