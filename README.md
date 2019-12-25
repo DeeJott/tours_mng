@@ -1,6 +1,6 @@
 # tours_mng
 
-A new Flutter application.
+A new Flutter application. Made nothing here. Was just for testing.
 
 ## Getting Started
 
